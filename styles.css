@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #FAEAF6;
+}
+
+.navbar-brand > img {
+    width: 4.5rem;
+    height: auto;
+    padding-left: 2rem;
+}
+
+main {
+    align-items: center;
+    margin: 3rem 10rem;
+    border: 1px #800020 solid;
+    border-radius: 10px;
+    padding: 4rem;
+}
+
+.content-container {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    align-items: stretch;
+}
+
+.content-container img {
+    height: 20rem;
+    width: auto;
+    margin: 3rem;
+}
